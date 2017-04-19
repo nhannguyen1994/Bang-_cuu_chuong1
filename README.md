@@ -1,2 +1,2 @@
 # Bang-_cuu_chuong1
-Làm javascript bảng cửu chương
+##run : node bai1.js
